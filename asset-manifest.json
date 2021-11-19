@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pgs-hack/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/pgs-hack/static/js/main.10826dff.chunk.js",
+    "main.js.map": "/pgs-hack/static/js/main.10826dff.chunk.js.map",
+    "runtime-main.js": "/pgs-hack/static/js/runtime-main.1cb2ff29.js",
+    "runtime-main.js.map": "/pgs-hack/static/js/runtime-main.1cb2ff29.js.map",
+    "static/js/2.9125ad66.chunk.js": "/pgs-hack/static/js/2.9125ad66.chunk.js",
+    "static/js/2.9125ad66.chunk.js.map": "/pgs-hack/static/js/2.9125ad66.chunk.js.map",
+    "static/js/3.d5fe7e8e.chunk.js": "/pgs-hack/static/js/3.d5fe7e8e.chunk.js",
+    "static/js/3.d5fe7e8e.chunk.js.map": "/pgs-hack/static/js/3.d5fe7e8e.chunk.js.map",
+    "index.html": "/pgs-hack/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/pgs-hack/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.9125ad66.chunk.js.LICENSE.txt": "/pgs-hack/static/js/2.9125ad66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pgs-hack/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cb2ff29.js",
+    "static/js/2.9125ad66.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.10826dff.chunk.js"
+  ]
+}
