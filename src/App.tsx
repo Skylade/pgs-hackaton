@@ -1,30 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
+import { Col, Row } from 'antd';
+import 'antd/dist/antd.css';
+import './App.scss'
+// import OpenStreetMap from './OpenStreetMap/OpenStreetMap';
 
-// const AnyReactComponent = ({ text }) => <div>{text}</div>;
 
 function App() {
 
-
-
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='landing-container'>
+
+      <Row className='landing-container__second-row'>
+        <Col xs={24} sm={24} md={12} lg={12} xl={12} className='landing-container__second-row__first-col'>
+          Content
+        </Col>
+        <Col xs={24} sm={24} md={12} lg={12} xl={12} className='landing-container__second-row__second-col'>
+          {/* <OpenStreetMap
+            center={[51.06370, 17.03760]}
+            markerPosition={[51.06370, 17.03760]}
+            address={'pawia 44 wrocław'}
+            zoom={30}
+          /> */}
+        </Col>
+      </Row>
+
     </div>
 
   );
