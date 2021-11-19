@@ -2,7 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+// const AnyReactComponent = ({ text }) => <div>{text}</div>;
+
 function App() {
+
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +26,7 @@ function App() {
         </a>
       </header>
     </div>
+
   );
 }
 
