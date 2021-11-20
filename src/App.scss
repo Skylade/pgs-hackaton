@@ -8,6 +8,10 @@
     padding-left: 50px;
     padding-right: 50px;  
 
+    &__logo {
+      max-width: 50px;
+    }
+
     &__search-box {
       width: 100%;
 
@@ -15,6 +19,14 @@
         padding-left: 20px !important;
         padding-right: 20px !important;
         border-radius: 50px !important;
+      }
+
+      .ant-select-selector:hover {
+        border-color: #40916c !important;
+      }
+
+      .ant-select-selector:focus {
+        border-color: #40916c !important;
       }
     }
 
@@ -44,6 +56,22 @@
   &__second-row {
 
     &__first-col {
+
+      padding-left: 30px;
+      padding-right: 30px;
+
+      &__number-of-searches {
+        font-size: 1em;
+        margin-top: 40px;
+        color: rgba(0, 0, 0, 0.459);
+      }
+
+      &__heading {
+        font-size: 2.4em;
+        font-weight: bold;
+      }
+
+
     }
 
     &__second-col {

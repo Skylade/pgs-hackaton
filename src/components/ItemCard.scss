@@ -1,0 +1,50 @@
+.item-card {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+
+    &__image {
+        width: 100%;
+    }
+
+    &__title {
+        margin-top: 20px;
+        font-size: 1.3em;
+        font-weight: bold !important;
+    }
+
+    &__seller {
+        margin-top: 20px;
+        font-size: 0.9em;
+        font-weight: 400 !important;
+    }
+
+    &__address {
+        font-size: 0.9em;
+        font-weight: 400 !important;
+        margin-bottom: 20px;
+    }
+
+    &__rate {
+        color: #d8f3dc !important;
+    }
+
+    &__price {
+        font-size: 1.1em;
+        color: #40916c;
+        font-weight: bold;
+
+        span {
+            font-weight: 400;
+            margin-left:  10px;
+        }
+    }
+}
+
+.item-card:hover {
+    box-shadow: rgb(0 0 0 / 8%) 0px 1px 12px !important;
+    cursor: pointer;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import ItemList from "./components/ItemList";
 
-import { Button, Col, Row, Select } from "antd";
+import { Button, Col, Divider, Row, Select } from "antd";
 import "antd/dist/antd.css";
 import "./App.scss";
 import OpenStreetMap from "./OpenStreetMap/OpenStreetMap";
@@ -75,6 +75,15 @@ function App() {
                     xl={12}
                     className="landing-container__second-row__first-col"
                 >
+                  <Row className="landing-container__second-row__first-col__number-of-searches">
+                    231 wyników
+                  </Row>
+                  <Row className="landing-container__second-row__first-col__heading">
+                    Znalezione dla Ciebie
+                  </Row>
+                  <Divider />
+
+
                   <ItemList />
                 </Col>
                 <Col
