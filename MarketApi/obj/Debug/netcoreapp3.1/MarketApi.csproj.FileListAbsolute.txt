@@ -21,7 +21,6 @@ C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreap
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\staticwebassets\MarketApi.StaticWebAssets.xml
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\MarketApi.styles.css
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\MarketApi.RazorTargetAssemblyInfo.cache
-C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\MarketApi.csproj.CopyComplete
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\MarketApi.dll
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\MarketApi.pdb
 C:\Users\barci\OneDrive\Pulpit\Hackathon\MarketApi\MarketApi\obj\Debug\netcoreapp3.1\MarketApi.genruntimeconfig.cache
