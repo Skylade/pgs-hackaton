@@ -17,16 +17,8 @@ interface OpenStreetMapProps {
     zoom: number
 }
 
-// function ChangeView( center: any, zoom: any ) {
-//     const map = useMap();
-//     map.setView(center, zoom);
-//     return null;
-// }
-
-
 const OpenStreetMap = (props: OpenStreetMapProps) => {
     const { markerPosition, address, zoom, center } = props
-
 
     return (
         <MapContainer    style={{ height: '100vh', width: '100wh' }}
