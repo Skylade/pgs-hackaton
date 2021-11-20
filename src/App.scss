@@ -60,9 +60,19 @@
       padding-left: 30px;
       padding-right: 30px;
 
-      &__number-of-searches {
+      &__categories {
         font-size: 1em;
         margin-top: 40px;
+        color: rgba(0, 0, 0, 0.459);
+
+        span {
+          cursor: pointer;
+        }
+      }
+
+      &__number-of-searches {
+        font-size: 1em;
+        margin-top: 20px;
         color: rgba(0, 0, 0, 0.459);
       }
 
@@ -71,12 +81,94 @@
         font-weight: bold;
       }
 
+      &__filters-row {
+        margin-top: 20px;
+
+        &__search-box {
+          width: 50%;
+
+          .ant-select-selector {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            border-radius: 50px !important;
+          }
+
+          .ant-select-selector:hover {
+            border-color: #40916c !important;
+          }
+
+          .ant-select-selector:focus {
+            border-color: #40916c !important;
+          }
+        }
+
+        &__filter-button {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+          border-radius: 50px !important;
+          margin-left: 20px;
+        }
+
+        &__filter-button:hover {
+          border-color: #40916c !important;
+          color: #40916c !important;
+        }
+
+        &__filter-button:focus {
+          border-color: #40916c !important;
+          color: #40916c !important;
+        }
+
+
+      }
+
+      &__load-more {
+        margin-top: 40px;
+        margin-bottom: 100px;
+
+      }
+
+      &__load-more:hover {
+        color: #40916c;
+        border-color: #40916c;
+      }
+
+      &__load-more:focus {
+        color: #40916c;
+        border-color: #40916c;
+      }
+
+
+
 
     }
 
     &__second-col {
       
     }
+
+  }
+
+  &__third-row {
+    box-shadow: rgb(0 0 0 / 8%) 0px 1px 12px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;  
+
+    &__logo {
+      max-width: 50px;
+    }
+
+    &__label {
+      color: rgba(0, 0, 0, 0.63);
+
+      span {
+        margin-top: 10px;
+        margin-left: 20px;
+      }
+    }
+
 
   }
 

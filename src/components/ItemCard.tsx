@@ -5,17 +5,7 @@ import './ItemCard.scss';
 
 function ItemCard(props: any) {
     return (
-        // <div className="card-container">
-        //     <div className="card-image">
-        //         <img src='https://regio-food.pl/wp-content/uploads/yerba-mate-od-zielonej-wrozkii-min.jpg' alt="" />
-        //     </div>
-        //     <div className="card-details">
-        //         <div className="card-title"> {props.item.name} </div>{" "}
-        //         <div className="card-location"> {props.item.location}</div>
-        //         <div className="card-owner"> {props.item.owner}</div>
-        //     </div>
-        //     <div className="card-price"> {props.item.price}</div>
-        // </div>
+
         <Row className='item-card'>
             <Col
                 xs={6}
@@ -25,7 +15,7 @@ function ItemCard(props: any) {
                 xl={6}
             >
                 <Row justify='center'>
-                    <img src='https://regio-food.pl/wp-content/uploads/yerba-mate-od-zielonej-wrozkii-min.jpg' className='item-card__image' alt="" />
+                    <img src={props.item.image} className='item-card__image' alt="" />
                 </Row>
             </Col>
             <Col
@@ -34,15 +24,19 @@ function ItemCard(props: any) {
                 md={18}
                 lg={18}
                 xl={18}
+                className='item-card__right-col'
             >
                 <Row className='item-card__title'>
-                    Yerba mate od zielonej wrozki
+                    {props.item.name}
+                </Row>
+                <Row className='item-card__distance'>
+                    {props.item.distance} km od Ciebie
                 </Row>
                 <Row className='item-card__seller'>
-                    Krystyna
+                    {props.item.owner}
                 </Row>
                 <Row className='item-card__address'>
-                    Fabryczna 1b, Wrocław
+                    {props.item.location}
                 </Row>
                 <Row>
                     <Col
@@ -64,7 +58,7 @@ function ItemCard(props: any) {
                         xl={12}
                     >
                         <Row justify='end' className='item-card__price'>
-                            15,99 zł <span> sztuka</span>
+                            {props.item.price} zł <span> sztuka</span>
                         </Row>
                     </Col>
                 </Row>
