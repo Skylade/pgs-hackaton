@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/pgs-hackaton/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/pgs-hackaton/static/js/main.cdebac6b.chunk.js",
-    "main.js.map": "/pgs-hackaton/static/js/main.cdebac6b.chunk.js.map",
-    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.d5d1f22d.js",
-    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.d5d1f22d.js.map",
-    "static/js/2.9125ad66.chunk.js": "/pgs-hackaton/static/js/2.9125ad66.chunk.js",
-    "static/js/2.9125ad66.chunk.js.map": "/pgs-hackaton/static/js/2.9125ad66.chunk.js.map",
-    "static/js/3.d5fe7e8e.chunk.js": "/pgs-hackaton/static/js/3.d5fe7e8e.chunk.js",
-    "static/js/3.d5fe7e8e.chunk.js.map": "/pgs-hackaton/static/js/3.d5fe7e8e.chunk.js.map",
+    "main.css": "/pgs-hackaton/static/css/main.de157eee.chunk.css",
+    "main.js": "/pgs-hackaton/static/js/main.41f1db2f.chunk.js",
+    "main.js.map": "/pgs-hackaton/static/js/main.41f1db2f.chunk.js.map",
+    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.bab38975.js",
+    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.bab38975.js.map",
+    "static/css/2.a95be28f.chunk.css": "/pgs-hackaton/static/css/2.a95be28f.chunk.css",
+    "static/js/2.64ab0b5a.chunk.js": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js",
+    "static/js/2.64ab0b5a.chunk.js.map": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js.map",
+    "static/js/3.e9a3e7db.chunk.js": "/pgs-hackaton/static/js/3.e9a3e7db.chunk.js",
+    "static/js/3.e9a3e7db.chunk.js.map": "/pgs-hackaton/static/js/3.e9a3e7db.chunk.js.map",
     "index.html": "/pgs-hackaton/index.html",
-    "static/css/main.7d180cbf.chunk.css.map": "/pgs-hackaton/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.9125ad66.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.9125ad66.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pgs-hackaton/static/media/logo.6ce24c58.svg"
+    "static/css/2.a95be28f.chunk.css.map": "/pgs-hackaton/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.de157eee.chunk.css.map": "/pgs-hackaton/static/css/main.de157eee.chunk.css.map",
+    "static/js/2.64ab0b5a.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js.LICENSE.txt",
+    "static/media/cynamonka.51a67a15.jpg": "/pgs-hackaton/static/media/cynamonka.51a67a15.jpg",
+    "static/media/serek.43a5ae3b.jpg": "/pgs-hackaton/static/media/serek.43a5ae3b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5d1f22d.js",
-    "static/js/2.9125ad66.chunk.js",
-    "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.cdebac6b.chunk.js"
+    "static/js/runtime-main.bab38975.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.64ab0b5a.chunk.js",
+    "static/css/main.de157eee.chunk.css",
+    "static/js/main.41f1db2f.chunk.js"
   ]
 }
