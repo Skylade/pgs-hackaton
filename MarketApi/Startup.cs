@@ -1,9 +1,12 @@
+using MarketApi.Database;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using MarketApi.ServicesInterfaces;
 
 namespace MarketApi
 {
@@ -19,7 +22,15 @@ namespace MarketApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<DataBaseContext>(opt =>
+                opt.UseSqlServer(Configuration.GetConnectionString("MarketDBContext")));
+
+            services.AddScoped<IAuctionItemService, AuctionItemService>();
+            services.AddScoped<ISellerService, SellerService>();
             services.AddControllers();
+
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
             services.AddSwaggerGen(c =>
             {
