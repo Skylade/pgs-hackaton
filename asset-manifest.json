@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/pgs-hackaton/static/css/main.de157eee.chunk.css",
-    "main.js": "/pgs-hackaton/static/js/main.41f1db2f.chunk.js",
-    "main.js.map": "/pgs-hackaton/static/js/main.41f1db2f.chunk.js.map",
-    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.bab38975.js",
-    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.bab38975.js.map",
+    "main.css": "/pgs-hackaton/static/css/main.4d628520.chunk.css",
+    "main.js": "/pgs-hackaton/static/js/main.ae34d42c.chunk.js",
+    "main.js.map": "/pgs-hackaton/static/js/main.ae34d42c.chunk.js.map",
+    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.4d14afee.js",
+    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.4d14afee.js.map",
     "static/css/2.a95be28f.chunk.css": "/pgs-hackaton/static/css/2.a95be28f.chunk.css",
-    "static/js/2.64ab0b5a.chunk.js": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js",
-    "static/js/2.64ab0b5a.chunk.js.map": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js.map",
-    "static/js/3.e9a3e7db.chunk.js": "/pgs-hackaton/static/js/3.e9a3e7db.chunk.js",
-    "static/js/3.e9a3e7db.chunk.js.map": "/pgs-hackaton/static/js/3.e9a3e7db.chunk.js.map",
+    "static/js/2.02fe4d84.chunk.js": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js",
+    "static/js/2.02fe4d84.chunk.js.map": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js.map",
+    "static/js/3.f4534ce9.chunk.js": "/pgs-hackaton/static/js/3.f4534ce9.chunk.js",
+    "static/js/3.f4534ce9.chunk.js.map": "/pgs-hackaton/static/js/3.f4534ce9.chunk.js.map",
     "index.html": "/pgs-hackaton/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/pgs-hackaton/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.de157eee.chunk.css.map": "/pgs-hackaton/static/css/main.de157eee.chunk.css.map",
-    "static/js/2.64ab0b5a.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.64ab0b5a.chunk.js.LICENSE.txt",
-    "static/media/cynamonka.51a67a15.jpg": "/pgs-hackaton/static/media/cynamonka.51a67a15.jpg",
-    "static/media/serek.43a5ae3b.jpg": "/pgs-hackaton/static/media/serek.43a5ae3b.jpg"
+    "static/css/main.4d628520.chunk.css.map": "/pgs-hackaton/static/css/main.4d628520.chunk.css.map",
+    "static/js/2.02fe4d84.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bab38975.js",
+    "static/js/runtime-main.4d14afee.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.64ab0b5a.chunk.js",
-    "static/css/main.de157eee.chunk.css",
-    "static/js/main.41f1db2f.chunk.js"
+    "static/js/2.02fe4d84.chunk.js",
+    "static/css/main.4d628520.chunk.css",
+    "static/js/main.ae34d42c.chunk.js"
   ]
 }
