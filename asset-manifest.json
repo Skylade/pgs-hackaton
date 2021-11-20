@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/pgs-hackaton/static/css/main.4d628520.chunk.css",
-    "main.js": "/pgs-hackaton/static/js/main.ae34d42c.chunk.js",
-    "main.js.map": "/pgs-hackaton/static/js/main.ae34d42c.chunk.js.map",
-    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.4d14afee.js",
-    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.4d14afee.js.map",
+    "main.css": "/pgs-hackaton/static/css/main.9be6b78c.chunk.css",
+    "main.js": "/pgs-hackaton/static/js/main.f2b0ba3b.chunk.js",
+    "main.js.map": "/pgs-hackaton/static/js/main.f2b0ba3b.chunk.js.map",
+    "runtime-main.js": "/pgs-hackaton/static/js/runtime-main.79956f7a.js",
+    "runtime-main.js.map": "/pgs-hackaton/static/js/runtime-main.79956f7a.js.map",
     "static/css/2.a95be28f.chunk.css": "/pgs-hackaton/static/css/2.a95be28f.chunk.css",
-    "static/js/2.02fe4d84.chunk.js": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js",
-    "static/js/2.02fe4d84.chunk.js.map": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js.map",
-    "static/js/3.f4534ce9.chunk.js": "/pgs-hackaton/static/js/3.f4534ce9.chunk.js",
-    "static/js/3.f4534ce9.chunk.js.map": "/pgs-hackaton/static/js/3.f4534ce9.chunk.js.map",
+    "static/js/2.16740482.chunk.js": "/pgs-hackaton/static/js/2.16740482.chunk.js",
+    "static/js/2.16740482.chunk.js.map": "/pgs-hackaton/static/js/2.16740482.chunk.js.map",
+    "static/js/3.cf45ffbb.chunk.js": "/pgs-hackaton/static/js/3.cf45ffbb.chunk.js",
+    "static/js/3.cf45ffbb.chunk.js.map": "/pgs-hackaton/static/js/3.cf45ffbb.chunk.js.map",
     "index.html": "/pgs-hackaton/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/pgs-hackaton/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.4d628520.chunk.css.map": "/pgs-hackaton/static/css/main.4d628520.chunk.css.map",
-    "static/js/2.02fe4d84.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.02fe4d84.chunk.js.LICENSE.txt"
+    "static/css/main.9be6b78c.chunk.css.map": "/pgs-hackaton/static/css/main.9be6b78c.chunk.css.map",
+    "static/js/2.16740482.chunk.js.LICENSE.txt": "/pgs-hackaton/static/js/2.16740482.chunk.js.LICENSE.txt",
+    "static/media/foodAppLogo.1cb4aa60.png": "/pgs-hackaton/static/media/foodAppLogo.1cb4aa60.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d14afee.js",
+    "static/js/runtime-main.79956f7a.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.02fe4d84.chunk.js",
-    "static/css/main.4d628520.chunk.css",
-    "static/js/main.ae34d42c.chunk.js"
+    "static/js/2.16740482.chunk.js",
+    "static/css/main.9be6b78c.chunk.css",
+    "static/js/main.f2b0ba3b.chunk.js"
   ]
 }
